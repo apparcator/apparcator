@@ -1,16 +1,36 @@
-## Hi there 👋
+![Apparcator](https://www.apparcator.com/resources/images/apparcator_text.png)
 
-<!--
-**apparcator/apparcator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What is Apparcator?
+Apparcator is a collaborative community where users can find and share free parking spots anywhere in the world.  
 
-Here are some ideas to get you started:
+🔹 **Find free parking** thanks to markers shared by other users  
+🔹 **Share your discoveries** and help the community   
+🔹 **Vote and comment** to improve the accuracy of the markers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Official Website
+[www.apparcator.com](https://www.apparcator.com)
+
+## 🚀 Report issues or suggest improvements
+If you've found a bug or have a suggestion to improve Apparcator, open a ticket in our repository:  
+➡️ [Open an issue](https://github.com/appasiona/apparcator/issues)
+
+---
+
+## ¿Qué es Apparcator?
+Apparcator es una comunidad colaborativa donde los usuarios pueden encontrar y compartir zonas de aparcamiento gratuito en cualquier parte del mundo.  
+
+🔹 **Encuentra aparcamiento gratis** gracias a los marcadores de otros usuarios  
+🔹 **Comparte tus descubrimientos** y ayuda a la comunidad  
+🔹 **Vota y comenta** para mejorar la precisión de los marcadores 
+
+## 🌍 Web oficial
+[www.apparcator.com](https://www.apparcator.com)
+
+## 🚀 Reporta incidencias o sugiere mejoras
+Si has encontrado un error o tienes una sugerencia para mejorar Apparcator, abre un ticket en nuestro repositorio:  
+➡️ [Abrir una incidencia](https://github.com/appasiona/apparcator/issues)
+
+---  
+
+🔹 **Proyecto desarrollado por [Marc Victoria](https://github.com/appasiona)**  
+🔹 **Project developed by [Marc Victoria](https://github.com/appasiona)**  
